@@ -4,16 +4,6 @@
 <p>In these kinds of voting systems, the voting process is distributed across a network of computers in a decentralized manner instead of having a single entity to control the voting. This mechanism ensures that no single entity can control the outcome of the voting.
 
 
-## Team Members:
-1. Gouri Babasaheb Sabale:  (CWID: 885189761) (Email: gourisabale123@csu.fullerton.edu)
-2. Divya Tanwar (CWID:885207738 (Email: divyatanwar@csu.fullerton.edu))
-3. Venkat Jawahar Reddy Yerrabathini (CWID: 885187195) (Email: yvjr95@gmail.com)
-
-## Link to the Github Project:
-     https://github.com/tanwardivya/decentralized-voting-system.git
-
-
-
 ## Key Attributes:
 
 1. **Secure Decentralized Voting:** Conduct voting process securely with complete confidence. Advanced Blockchain technology leverages decentralized storage to ensure the transparency and security of votes, eliminating vote manipulation and single entity of control.

@@ -3,6 +3,13 @@
 <p>Decentralized voting system provides a voting mechanism by utilizing blockchain technology to conduct elections and decision making processes in a decentralized manner.
 <p>In these kinds of voting systems, the voting process is distributed across a network of computers in a decentralized manner instead of having a single entity to control the voting. This mechanism ensures that no single entity can control the outcome of the voting.
 
+## Tech Stack Used:
+1. ReactJS
+2. Metamask
+3. Ganache Blockchain Network
+4. Solidity
+5. Node 18.2.0
+
 
 ## Key Attributes:
 
@@ -27,16 +34,6 @@
 8. **Handle Tie Situations:** This feature is introduced to handle ties in the elections by choosing winner randomly
 9. **Declare Winner:** With this feature , we can declare the final winner of the current election
 10.**Get Candidate Details:** This feature helps to fetch candidate details
-
-
-## Requirments:
-
-- ReactJS
-- Metamask
-- Ganache
-- Solidity
-- Node 18.2.0
-
 
 ## Setting Up the Project Enviorment:
 
